@@ -1,3 +1,7 @@
+Lesson1
+Компоненти та пропси
+
+
 # Project location
 https://github.com/Marina11660088/react2024may
 
